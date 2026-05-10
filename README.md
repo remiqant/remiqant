@@ -6,7 +6,7 @@ I'm passionate about building backend systems and exploring low-level programmin
 ---
 
 ### 🔭 Current Focus
-- **Final Projects:** Developing <a href="https://github.com/RemiQant/Tangent">`Tangent | Spotify playlist recommender`</a> app for my university courses.
+- **Current Projects:** Developing <a href="https://github.com/RemiQant/Tangent">`Tangent | Spotify playlist recommender`</a> app for my university courses.
 - **Backend:** Deep diving into **Golang** and the **Gin** framework.
 - **Systems:** Learning **C/C++** proficiency for low-level applications.
 
