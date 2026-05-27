@@ -1,4 +1,4 @@
-## Hi there, I'm Remi 👋 
+## Hi there, I'm Raymond 👋 
 
 I'm an **Artificial Intelligence undergraduate at Binus University**.  
 I'm passionate about building backend systems and exploring low-level programming.
